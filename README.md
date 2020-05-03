@@ -1,2 +1,0 @@
-# GordoSandbox
-Created with CodeSandbox
